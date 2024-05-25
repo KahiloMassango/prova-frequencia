@@ -1,0 +1,84 @@
+body {  
+    background-color: #111117;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.menu-principal {
+    width: 100%;
+    background-color: #111117;
+    height: 67px;
+    
+    
+}
+
+main{
+    padding-right: 100px;
+    margin: 0 auto;
+    position: relative;
+    
+}
+.logo {
+    float: left;
+    width: 80%;
+    padding: 8px;
+    
+
+}
+.redes-sociais ul li{
+    display: inline-block;
+    float: left;
+    list-style: none;
+    padding: 8px;
+    
+
+}
+.header-2 {
+    background-color: #111117;
+    width: 100%;
+    
+    
+}
+.menu ul {
+    text-align: center;
+    
+
+}
+.menu ul li {
+    display: inline-block;
+    color: #f81ce6;
+    margin-left: 15px;
+    
+}
+.menu ul li a:hover {
+    color: #00bac6;
+    border-bottom: 3px solid #4517eb;
+}
+.menu ul li a { 
+    /* letras */
+    color: #22c265;
+    text-decoration: none;
+    font-size: 19px;
+    text-transform: uppercase;
+    
+}
+
+.menu-url {
+    /* barra por baixo das letras*/
+    border-bottom: 4px solid #6408dc;
+}
+div#fundo{
+    background-color: 	#09090d;
+}
+.descricao ul li {
+        color: white;
+        font: 10pt arial;
+        float: left;
+        display: inline-block;
+}
+
+.titlo{
+    font: 29pt normal;
+    color: rgb(255, 255, 255);
+}
